@@ -11,6 +11,6 @@ In our Login Form Validation in HTML & JavaScript, as you can see on the image p
 Once the user starts entering their credentials in the input fields then these errors will automatically hide. If you are feeling difficulties with what I’m saying then you can watch a video tutorial of this Login Form Validation in HTML with Shake Effect.
 <br>
 <br>
-
+This login form is created only for design purposes so when we entered a valid email & password and click on the login button then these details won’t send or submit anywhere.
 <br>
 <br>
